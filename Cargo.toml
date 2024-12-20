@@ -1,0 +1,8 @@
+[package]
+name = "wifi-enum"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.2.0"
+wifi_scanner = "0.5.1"
